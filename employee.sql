@@ -1,3 +1,6 @@
+
+//git hub first repository as demo
+
 //creating employee table
 CREATE TABLE EMPLOYEE(EMPLOYEE_ID NUMBER(5),NAME VARCHAR2(30),
 SALARY NUMBER(6)
